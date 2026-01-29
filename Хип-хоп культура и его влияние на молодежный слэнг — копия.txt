@@ -1,0 +1,403 @@
+
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container header-container">
+            <div class="logo">
+                <i class="fas fa-microphone-alt"></i>
+                <span>Хип-хоп и сленг</span>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#about">О хип-хопе</a></li>
+                    <li><a href="#words">Слова и выражения</a></li>
+                    <li><a href="#influence">Влияние на сленг</a></li>
+                    <li><a href="#gallery">Галерея</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>Хип-хоп культура и молодежный сленг</h1>
+            <p>Исследуйте влияние хип-хоп культуры на современный молодежный сленг. Откройте для себя происхождение популярных слов и выражений, которые стали частью повседневной речи.</p>
+            <a href="#words" class="btn">Изучить словарь</a>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container">
+        <!-- About Section -->
+        <section id="about" class="content-section">
+            <h2 class="section-title">О хип-хоп культуре</h2>
+            <div class="influence-content">
+                <p>Хип-хоп культура зародилась в афроамериканских и латиноамериканских кварталах Нью-Йорка в 1970-х годах. Она включает в себя четыре основных элемента: рэп (ритмичный речитатив), диджеинг, брейкданс и граффити.</p>
+                <p>Со временем хип-хоп превратился из уличного движения в глобальное культурное явление, оказывающее значительное влияние на моду, язык и мировоззрение молодежи по всему миру.</p>
+                <p>Язык хип-хопа, наполненный уникальными выражениями, метафорами и сленгом, стал важным источником новых слов для молодежи не только в США, но и во многих других странах, включая Россию.</p>
+            </div>
+        </section>
+
+        <!-- Hip-hop Words Section -->
+        <section id="words" class="content-section">
+            <h2 class="section-title">Слова из хип-хопа в молодежном сленге</h2>
+            <div class="words-grid">
+                <div class="word-card">
+                    <h3>Флекс</h3>
+                    <div class="origin">От англ. "flex" - показывать свою силу, богатство или успех</div>
+                    <p>Хвастовство, демонстрация своего превосходства, статуса или материальных благ.</p>
+                    <div class="example">Пример: "Он постоянно флексит своими новыми кроссовками"</div>
+                </div>
+                
+                <div class="word-card">
+                    <h3>Кринж</h3>
+                    <div class="origin">От англ. "cringe" - испытывать неловкость</div>
+                    <p>Сильное чувство неловкости, стыда за кого-то или что-то, ситуация, вызывающая дискомфорт.</p>
+                    <div class="example">Пример: "Его танец был таким кринжовым, что я не мог смотреть"</div>
+                </div>
+                
+                <div class="word-card">
+                    <h3>Го</h3>
+                    <div class="origin">От англ. "go" - идти, начинать</div>
+                    <p>Призыв к действию, "давай", "начинай".</p>
+                    <div class="example">Пример: "Го играть в футбол!"</div>
+                </div>
+                
+                <div class="word-card">
+                    <h3>Биф</h3>
+                    <div class="origin">От англ. "beef" - говядина, вражда</div>
+                    <p>Конфликт, вражда, разногласия между людьми, особенно публичные.</p>
+                    <div class="example">Пример: "У них серьезный биф из-за старой истории"</div>
+                </div>
+                
+                <div class="word-card">
+<h3>Дисс</h3>
+                    <div class="origin">От англ. "disrespect" - неуважение</div>
+                    <p>Оскорбительный трек, комментарий или высказывание в чей-то адрес.</p>
+                    <div class="example">Пример: "Он выпустил жесткий дисс на своего бывшего друга"</div>
+                </div>
+                
+                <div class="word-card">
+                    <h3>Хайп</h3>
+                    <div class="origin">От англ. "hype" - ажиотаж, шумиха</div>
+                    <p>Популярность, ажиотаж вокруг чего-либо, часто искусственно созданный.</p>
+                    <div class="example">Пример: "Вокруг нового айфона такой хайп"</div>
+                </div>
+                
+                <div class="word-card">
+                    <h3>Бифлоу</h3>
+                    <div class="origin">От англ. "flow" - поток, течение</div>
+                    <p>Манера исполнения рэпа, ритмический рисунок, стиль чтения.</p>
+                    <div class="example">Пример: "У этого рэпера уникальный бифлоу"</div>
+                </div>
+                
+                <div class="word-card">
+                    <h3>Скам</h3>
+                    <div class="origin">От англ. "scam" - мошенничество</div>
+                    <p>Обман, мошенничество, нечестная сделка.</p>
+                    <div class="example">Пример: "Этот магазин - полный скам, не покупай там"</div>
+                   <div class="word-card">
+                   <h3>Гангста</h3>
+                  <div class="origin">Значение: Этот термин обозначает человека, который 
+ассоциируется с уличной жизнью, уличной культурой, часто с образом "крутого" и сильного. 
+В молодежной среде "гангста" — это кто-то, кто показывает свою уверенность, стиль и силу.</div>
+                  <div class="word-card">
+                     <h3>Бро</h3>
+                     <div class="origin">Значение: Друг, товарищ, брат по духу. 
+                        Используется для обозначения близкого друга или человека, 
+                        с которым есть доверие и дружелюбие.</div>
+            </div> 
+            </div>
+        </section>
+
+        <!-- Influence Section -->
+        <section id="influence" class="content-section">
+            <h2 class="section-title">Как хип-хоп влияет на молодежный сленг</h2>
+            <div class="influence-content">
+                <p>Хип-хоп культура оказывает многогранное влияние на молодежный сленг:</p>
+                <ul>
+                    <li><strong>Прямое заимствование слов</strong> - многие английские термины из хип-хопа переходят в русский язык практически без изменений (дисс, флекс, хайп).</li>
+                    <li><strong>Трансформация значений</strong> - слова получают новые значения, отличные от первоначальных (например, "кринж" как чувство неловкости).</li>
+                    <li><strong>Создание новых слов</strong> - на основе хип-хоп терминологии образуются новые слова (прокачанный, задиссить).</li>
+                    <li><strong>Рифмованные конструкции</strong> - в речи молодежи появляются рифмованные фразы, характерные для рэпа.</li>
+                    <li><strong>Метафоричность</strong> - хип-хоп привносит в язык яркие метафоры и сравнения.</li>
+                </ul>
+                <p>Этот процесс особенно усилился с распространением интернета и социальных сетей, где музыка и клипы становятся доступными мгновенно. Российские рэп-исполнители также создают собственный сленг, который перенимается их поклонниками.</p>
+                <p>Сленг из хип-хопа выполняет несколько функций: он помогает молодежи самоидентифицироваться, противопоставлять себя старшему поколению, создавать ощущение принадлежности к определенной группе и делает общение более экспрессивным.</p>
+            </div>
+        </section>
+
+        <!-- Gallery Section -->
+        <section id="gallery" class="content-section">
+            <h2 class="section-title">Хип-хоп культура в картинках</h2>
+            <div class="gallery">
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="Рэп-исполнитель на сцене">
+                    <div class="caption">Рэп-выступление на концерте</div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="Диск-жокей за вертушками">
+                    <div class="caption">Диск-жокей создает музыку</div>
+                </div>
+<div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1547825407-12d434919a73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="Брейкданс на улице">
+                    <div class="caption">Уличный брейкданс</div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1540742808128-4d6f48b9e5e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="Художник граффити">
+                    <div class="caption">Искусство граффити</div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>О проекте</h3>
+                    <p>Сайт посвящен исследованию влияния хип-хоп культуры на современный молодежный сленг. Мы собираем и анализируем слова и выражения, пришедшие из хип-хопа в повседневную речь.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Быстрые ссылки</h3>
+                    <p><a href="#about" style="color: #ccc; text-decoration: none;">О хип-хопе</a></p>
+                    <p><a href="#words" style="color: #ccc; text-decoration: none;">Словарь сленга</a></p>
+                    <p><a href="#influence" style="color: #ccc; text-decoration: none;">Влияние на язык</a></p>
+                    <p><a href="#gallery" style="color: #ccc; text-decoration: none;">Галерея</a></p>
+                </div>
+                <div class="footer-section">
+                    <h3>Контакты</h3>
+                    <p>Для предложений и сотрудничества:</p>
+                    <p>Email: info@hiphop-slang.ru</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-vk"></i></a>
+                        <a href="#"><i class="fab fa-telegram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2023 Хип-хоп культура и молодежный сленг. Все права защищены.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Плавная прокрутка к якорям
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href');
+                const targetElement = document.querySelector(targetId);
+                
+                window.scrollTo({
+                    top: targetElement.offsetTop - 80,
+                    behavior: 'smooth'
+                });
+            });
+        });
+        
+        // Добавление анимации при прокрутке
+        window.addEventListener('scroll', function() {
+            const wordCards = document.querySelectorAll('.word-card');
+            const galleryItems = document.querySelectorAll('.gallery-item');
+            
+            wordCards.forEach(card => {
+                const cardPosition = card.getBoundingClientRect().top;
+                const screenPosition = window.innerHeight / 1.2;
+                
+                if (cardPosition < screenPosition) {
+                    card.style.opacity = '1';
+                    card.style.transform = 'translateY(0)';
+                }
+            });
+            
+            galleryItems.forEach(item => {
+                const itemPosition = item.getBoundingClientRect().top;
+                const screenPosition = window.innerHeight / 1.2;
+                
+                if (itemPosition < screenPosition) {
+                    item.style.opacity = '1';
+                    item.style.transform = 'scale(1)';
+                }
+            });
+        });
+// Инициализация стилей для анимации
+        document.addEventListener('DOMContentLoaded', function() {
+            const wordCards = document.querySelectorAll('.word-card');
+            const galleryItems = document.querySelectorAll('.gallery-item');
+            
+            wordCards.forEach(card => {
+                card.style.opacity = '0';
+                card.style.transform = 'translateY(20px)';
+                card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+            });
+            
+            galleryItems.forEach(item => {
+                item.style.opacity = '0';
+                item.style.transform = 'scale(0.9)';
+                item.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+            });
+            
+            // Запуск анимации после загрузки страницы
+            setTimeout(() => {
+                window.dispatchEvent(new Event('scroll'));
+            }, 300);
+        });
+    </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Хип-хоп культура и молодежный сленг</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        :root {
+            --primary: #1a1a2e;
+            --secondary: #16213e;
+            --accent: #e94560;
+            --light: #f1f1f1;
+            --text: #333;
+            --gray: #8a8a8a;
+        }
+        
+        body {
+            background-color: var(--light);
+            color: var(--text);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 20px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.8rem;
+            font-weight: 700;
+        }
+        
+        .logo i {
+            color: var(--accent);
+        }
+        
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 30px;
+        }
+        
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s;
+            font-size: 1.1rem;
+        }
+        
+        nav a:hover {
+            color: var(--accent);
+        }
+        
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(rgba(26, 26, 46, 0.9), rgba(22, 33, 62, 0.9)), url('https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            text-align: center;
+            padding: 100px 0;
+            margin-bottom: 60px;
+        }
+        
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .hero p {
+            font-size: 1.3rem;
+            max-width: 800px;
+            margin: 0 auto 30px;
+        }
+        
+        .btn {
+            display: inline-block;
+            background-color: var(--accent);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: transform 0.3s, background-color 0.3s;
+        }
+        
+        .btn:hover {
+            background-color: #d43a55;
+            transform: translateY(-3px);
+        }
+        
+        /* Main Content */
+        .section-title {
+            text-align: center;
+            margin-bottom: 50px;
+            color: var(--primary);
+            font-size: 2.5rem;
+            position: relative;
+        }
+        
+        .section-title:after {
+            content: '';
+            position: absolute;
+            width: 100px;
+            height: 4px;
+            background-color: var(--accent);
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        
+        .content-section {
+            margin-bottom: 80px;
+        }
+        
+        /* Hip-hop Words */
+        .words-grid {
+            display: grid;
